@@ -1,0 +1,72 @@
+1
+00:00:00,000 --> 00:00:15,000
+Silent night! holy night!
+
+2
+00:00:15,000 --> 00:00:30,000
+All is calm, all is bright
+
+3
+00:00:30,000 --> 00:00:45,000
+Round yon virgin mother and Child,
+
+4
+00:00:45,000 --> 00:01:00,000
+Holy Infant so tender and mild,
+
+5
+00:01:00,000 --> 00:01:15,000
+Sleep in heavenly peace,
+
+6
+00:01:15,000 --> 00:01:30,000
+sleep in heavenly peace.
+
+7
+00:01:30,000 --> 00:01:45,000
+Silent night! holy night!
+
+8
+00:01:45,000 --> 00:02:00,000
+Shepherds quake at the sight,
+
+9
+00:02:00,000 --> 00:02:15,000
+glories stream from heaven afar,
+
+10
+00:02:15,000 --> 00:02:30,000
+heavenly hosts sing Alleluia;
+
+11
+00:02:30,000 --> 00:02:45,000
+Christ, the Savior is born,
+
+12
+00:02:45,000 --> 00:03:00,000
+Christ, the Savior is born.
+
+13
+00:03:00,000 --> 00:03:15,000
+Silent night! holy night!
+
+14
+00:03:15,000 --> 00:03:30,000
+Son of God, love’s pure light,
+
+15
+00:03:30,000 --> 00:03:45,000
+Radiant beams from Thy holy face,
+
+16
+00:03:45,000 --> 00:04:00,000
+with the dawn of redeeming grace,
+
+17
+00:04:00,000 --> 00:04:15,000
+Jesus, Lord, at Thy birth,
+
+18
+00:04:15,000 --> 00:04:30,000
+Jesus, Lord, at Thy birth.
+

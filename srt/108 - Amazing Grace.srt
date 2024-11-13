@@ -1,0 +1,80 @@
+1
+00:00:00,000 --> 00:00:15,000
+Amazing grace! How sweet the sound
+
+2
+00:00:15,000 --> 00:00:30,000
+that saved a wretch like me!
+
+3
+00:00:30,000 --> 00:00:45,000
+I once was lost, but now am found;
+
+4
+00:00:45,000 --> 00:01:00,000
+was blind, but now I see.
+
+5
+00:01:00,000 --> 00:01:15,000
+‘Twas grace that taught my heart to fear,
+
+6
+00:01:15,000 --> 00:01:30,000
+and grace my fears relieved;
+
+7
+00:01:30,000 --> 00:01:45,000
+how precious did that grace appear
+
+8
+00:01:45,000 --> 00:02:00,000
+the hour I first believed.
+
+9
+00:02:00,000 --> 00:02:15,000
+The Lord has promised good to me,
+
+10
+00:02:15,000 --> 00:02:30,000
+his word my hope secures;
+
+11
+00:02:30,000 --> 00:02:45,000
+he will my shield and portion be,
+
+12
+00:02:45,000 --> 00:03:00,000
+as long as life endures.
+
+13
+00:03:00,000 --> 00:03:15,000
+Through many dangers, toils, and snares,
+
+14
+00:03:15,000 --> 00:03:30,000
+I have already come;
+
+15
+00:03:30,000 --> 00:03:45,000
+’tis grace hath brought me safe thus far,
+
+16
+00:03:45,000 --> 00:04:00,000
+and grace will lead me home.
+
+17
+00:04:00,000 --> 00:04:15,000
+When we’ve been there ten thousand years,
+
+18
+00:04:15,000 --> 00:04:30,000
+bright shining as the sun,
+
+19
+00:04:30,000 --> 00:04:45,000
+we’ve no less days to sing God’s praise
+
+20
+00:04:45,000 --> 00:05:00,000
+than when we first begun.
+

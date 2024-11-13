@@ -1,0 +1,32 @@
+1
+00:00:00,000 --> 00:00:15,000
+Hark! the vesper hymn is stealing
+
+2
+00:00:15,000 --> 00:00:30,000
+O’er the waters soft and clear;
+
+3
+00:00:30,000 --> 00:00:45,000
+Jubilate, Jubilate, Jubilate,
+
+4
+00:00:45,000 --> 00:01:00,000
+Amen.
+
+5
+00:01:00,000 --> 00:01:15,000
+Nearer yet, and nearer pealing,
+
+6
+00:01:15,000 --> 00:01:30,000
+Soft it breaks upon the ear.
+
+7
+00:01:30,000 --> 00:01:45,000
+Jubilate, Jubilate, Jubilate,
+
+8
+00:01:45,000 --> 00:02:00,000
+Amen.
+
